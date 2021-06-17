@@ -1,6 +1,6 @@
 
 
-<img style="text-align:centre;" src="https://source.unsplash.com/ieic5Tq8YMk/600x350">
+<img align="left" src="https://source.unsplash.com/ieic5Tq8YMk/600x350">
 <h1 align="center">Hi 👋, I'm Abhishek Raut</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek23012000&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek23012000" /> </p>
 
